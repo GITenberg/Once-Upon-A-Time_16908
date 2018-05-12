@@ -1,0 +1,33 @@
+_repo: Once-Upon-A-Time_16908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16908-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: Davis was one of the premier writers of the late-nineteenth and early
+  twentieth centuries. Once Upon a Time , published in 1910, showcases the storytelling
+  talents for which Davis became famous. Some classic tales included are A Question
+  of Latitude," A Wasted Day," and The Make-Believe Man."
+gutenberg_issued: '2005-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: A question of latitude -- The spy -- The messengers -- A wasted day
+  -- A charmed life -- The amateur -- The make-believe man -- Peace manoevres.
+title: Once Upon A Time
+url: http://www.gutenberg.org/ebooks/16908
